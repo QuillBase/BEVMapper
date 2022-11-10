@@ -1,2 +1,2 @@
 # BEVMapper
-BEVMapper: A GPU-accelerated Mapper for building probabilistic 2.5D off-road terrain grid map
+A GPU-accelerated probabilistic 2.5D grid mapper working on unmanned all-terrain rover(UATR) for off-road terrain analysis and traversability detection based on open-source cupy library
